@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sayem906.aternos.me",
-    "port": 31639,
-    "version": "1.21.11"
+    "ip": "ulasmp.aternos.me",
+    "port": 22213,
+    "version": "26.1.1"
   },
   "position": {
     "enabled": true,
